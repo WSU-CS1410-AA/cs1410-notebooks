@@ -1,0 +1,11 @@
+    id title                              year  rated  rating   votes
+102091 The_Shawshank_Redemption           1994      R     9.3 1078045
+102092 The_Godfather                      1972      R     9.2  762332
+102093 The_Godfather:_Part_II             1974      R     9.0  496772
+102094 Pulp_Fiction                       1994      R     9.0  843376
+102095 The_Good_the_Bad_and_the_Ugly      1966      M     9.0  325579
+102096 The_Dark_Knight                    2008  PG-13     9.0 1050810
+102097 12_Angry_Men                       1957  PG-13     8.9  266350
+102098 Schindler's_List                   1993      R     8.9  553804
+102099 The_Return_of_the_King             2003  PG-13     8.9  767958
+102100 Fight_Club                         1999      R     8.8  819812
